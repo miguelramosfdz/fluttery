@@ -1,4 +1,4 @@
-# Fluttery
+# Fluttery -->Amazing Project
 
 A Flutter package that helps with prototyping.
 
